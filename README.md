@@ -1,7 +1,7 @@
-## Try it
+## Fake server provided by: [https://my-json-server.typicode.com/](https://my-json-server.typicode.com/)
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+## My version of the fake server: [https://my-json-server.typicode.com/ShadowDK89/fake-server](https://my-json-server.typicode.com/ShadowDK89/fake-server)
 
 ## Use your own data
 
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+Here you can use the template to make your own fake server: [https://github.com/typicode/demo](https://github.com/typicode/demo)
